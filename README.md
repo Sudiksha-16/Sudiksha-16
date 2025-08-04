@@ -1,5 +1,5 @@
 # **👋 Hello Developers, I’m Sudiksha**
-Welcome to my GitHub profile. I’m a B.Tech student currently in my third year, with a passion for technology and software development. I’m excited about exploring the latest advancements and applying my skills to real-world problems.
+Welcome to my GitHub profile. I’m a B.Tech student currently in my fourth year, with a passion for technology and software development. I’m excited about exploring the latest advancements and applying my skills to real-world problems.
   
 # **🚀 About Me**
 
